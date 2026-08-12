@@ -23,6 +23,3 @@ regional performance, and key business insights.
 - Compared regional performance
 - Identified areas with potential for improvement
 
-## 📁 Project Files
-
-[Download the Excel file](Sales_Analysis.xlsx)
