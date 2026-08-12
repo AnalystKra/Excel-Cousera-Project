@@ -1,2 +1,2 @@
 # Excel-Cousera-Project
-Cous0uoii data analysis project using Microsoft Excel
+Cousera data analysis project using Microsoft Excel
